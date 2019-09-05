@@ -31,7 +31,8 @@ h1 {font-family: 'Playfair Display', serif;
     font-family: 'Playfair Display', serif;
     font-style: italic;
     font-size: 0.8em;
-    border-top: right;
+    margin-top: 0;
+    text-align: right;
 }
 #footer {
   color: black;
@@ -40,6 +41,6 @@ h1 {font-family: 'Playfair Display', serif;
   border-top: 1px solid black;
 }
 img {
-  border; none;
+  border: none;
 }
 #contact {background-color: rgb(200,213,163)}
