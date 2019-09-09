@@ -4,6 +4,9 @@ h2 {color:rgb(75,116,180);}
 
 body {background-color: rgb(248,232,208);}
 
+h2 {font-family: 'Acme', sans-serif;
+}
+
 h1 {font-family: 'Playfair Display', serif;
 }
 #container {width:95%;margin:0 auto;text-align:center;
