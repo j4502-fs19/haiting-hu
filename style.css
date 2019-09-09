@@ -3,10 +3,11 @@ h1 {color:rgb(213,89,111); }
 h2 {color:rgb(75,116,180);}
 
 body {background-color: rgb(248,232,208);}
+h3 {font-family: 'Signika', sans-serif;
+}
 
 h2 {font-family: 'Acme', sans-serif;
 }
-
 h1 {font-family: 'Playfair Display', serif;
 }
 #container {width:95%;margin:0 auto;text-align:center;
@@ -35,7 +36,7 @@ h1 {font-family: 'Playfair Display', serif;
     font-style: italic;
     font-size: 0.8em;
     margin-top: 0;
-    text-align: left;
+    text-align: center;
 }
 #footer {
   color: black;
