@@ -49,21 +49,8 @@ img {
 }
 #contact {background-color: rgb(200,213,163)}
 
-.container {
-	display: flex;
-	flex-direction: row;
-}
-
-@media (min-width: 600px) {
-	.container {
-		flex-direction: row;
-		justify-content: center;
-	}
-}
-
-@media (min-width: 800px) {
-
-	.item-1 {
-		margin-right: auto;
-	}
+@media screen and (min-width:600px){
+  #nav li {
+    border-right:1px solid #ccc;
+  }
 }
