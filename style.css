@@ -49,6 +49,11 @@ img {
 }
 #contact {background-color: rgb(200,213,163)}
 
+.picture {
+  padding: 0;
+  list-style-type: none;
+}
+
 @media screen and (min-width:600px){
   #nav li {
     border-right:1px solid #ccc;
