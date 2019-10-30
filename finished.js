@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
   $('.menu-trigger').click(function() {
-    $('na').slideToggle(500);
+    $('nav ul').slideToggle(500);
   });//end slide toggle
 
 //When window is resized, the display:none is turned off for the ul so the menu displays on click or touch.
