@@ -6,6 +6,7 @@ body {
 nav ul li {
     display: block;
     border-top: 1px #79896d solid;
+    text-align: center;
 }
 
 nav a {
@@ -24,7 +25,7 @@ header {
 }
 
 .menu-trigger {
-    order: 1;
+    order: 2;
     font-size: 1.75em;
     width: 2em;
 }

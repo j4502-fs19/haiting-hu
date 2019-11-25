@@ -53,6 +53,16 @@ img {
   padding: 0;
   list-style-type: none;
 }
+.about {
+  display: block;
+  border-right: 25px;
+  border-left: 25px;
+  text-align: center;
+  margin-top: 50px;
+ margin-bottom: 100px;
+ margin-right: 150px;
+ margin-left: 150px;
+}
 
 @media screen and (min-width:600px){
   #nav li {
